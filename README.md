@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=Gn8vCJxHR14l4g&pid=ImgRaw&r=0" width="100%" height="200px" alt="image"/>
+<img src="https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=Gn8vCJxHR14l4g&pid=ImgRaw&r=0" width="100%" height="250px" alt="image"/>
 
 <h1 align="center">Hi 👋, I'm Joseph Magdy Habib</h1>
 <h3 align="center">I'm Fullstack Web Developer Backend ASP.Net | React.js</h3>
