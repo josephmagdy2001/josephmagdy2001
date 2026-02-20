@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , API , ASP.NeT projects , PHP MVC ,problem solving**
 
-- 📫 How to reach me **josephmagdy56@gmail.com**
+- 📫 How to reach me **josephmagdy.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
