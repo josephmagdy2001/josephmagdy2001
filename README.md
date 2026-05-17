@@ -1,139 +1,76 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e293b,100:334155&text=Joseph%20Magdy%20Habib&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:111827,100:1f2937&text=Joseph%20Magdy%20Habib&fontSize=44&fontColor=e5e7eb&animation=fadeIn&fontAlignY=38" />
 
-# 👋 Hello, I'm Joseph Magdy Habib
-
-### Laravel • PHP • React Developer
+### 🚀 Laravel • PHP • React Developer
 
 <p>
-Building clean, scalable and modern web applications.
+Building scalable backend systems, clean APIs, and modern web experiences.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Laravel+Backend+Developer;PHP+REST+API+Developer;React+Frontend+Developer;MySQL+Database+Designer;Clean+Code+Enthusiast" />
-
-<br><br>
-
-<a href="https://github.com/josephmagdy2001">
-<img src="https://img.shields.io/github/followers/josephmagdy2001?style=for-the-badge&logo=github&logoColor=white&color=334155"/>
-</a>
-
-<a href="mailto:josephmagdy.work@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/josephmagdy">
-<img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=E5E7EB&center=true&vCenter=true&width=700&lines=Laravel+Backend+Engineer;PHP+API+Developer;React+Frontend+Developer;MySQL+Database+Designer;Clean+Architecture+Enthusiast" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 About Me
 
-```php
-<?php
+I am a **Full Stack Web Developer** with around **3 years of professional experience** in building modern, scalable, and maintainable web applications.
 
-class Developer {
+I specialize in backend development using **Laravel & PHP**, with strong experience in designing RESTful APIs, database structures, and secure authentication systems. On the frontend side, I work with **React.js** to deliver responsive and user-friendly interfaces.
 
-    public string $name = "Joseph Magdy";
+Over the past years, I have focused on improving system architecture, writing clean and maintainable code, and optimizing application performance. I enjoy solving real-world problems through technology and continuously learning new tools and best practices in software development.
 
-    public array $stack = [
-        "Laravel",
-        "PHP",
-        "React.js",
-        "REST APIs",
-        "MySQL"
-    ];
-
-    public array $tools = [
-        "Git",
-        "GitHub",
-        "Postman",
-        "Linux",
-        "VS Code"
-    ];
-
-    public function code() {
-        return "Clean Code + Performance + Security";
-    }
-}
-```
+My approach is simple: build systems that are **fast, secure, scalable, and easy to maintain**.
 
 ---
 
-# ⚡ Backend Development
+# ⚙ Tech Stack
+
+## 🧩 Backend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-
 </div>
 
-<br>
-
-<p align="center">
-
-`PHP` • `Laravel` • `REST API` • `MVC` • `Authentication`
-• `Authorization` • `Sanctum` • `JWT`
-• `Eloquent ORM` • `MySQL`
-• `CRUD Systems` • `Validation`
-• `Middleware` • `API Integration`
-• `Role & Permission`
-• `Payment Integration`
-• `Notifications`
-• `Queue Jobs`
-
-</p>
+- RESTful API Development  
+- Authentication & Authorization (Sanctum / JWT)  
+- MVC Architecture  
+- Database Design & Optimization  
+- Eloquent ORM  
+- Middleware & Policies  
+- Queue Jobs & Task Scheduling  
+- Payment Gateway Integration  
 
 ---
 
-# 🎨 Frontend Development
+## 🎨 Frontend
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
-
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </div>
 
-<br>
-
-<p align="center">
-
-`React.js` • `JavaScript` • `HTML5`
-• `CSS3` • `Tailwind CSS`
-• `Bootstrap`
-• `Responsive Design`
-• `Axios`
-
-</p>
+- React.js (Components, Hooks)  
+- JavaScript ES6+  
+- Tailwind CSS  
+- Responsive UI Development  
+- API Integration (Axios / Fetch)  
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠 Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma,bash,npm" />
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma,docker" />
 </div>
 
-<br>
-
-<p align="center">
-
-`Git` • `GitHub`
-• `Postman`
-• `Linux`
-• `VS Code`
-• `Figma`
-• `Bash`
-• `NPM`
-• `Composer`
-
-</p>
+- Git & GitHub  
+- Postman API Testing  
+- Linux Command Line  
+- VS Code  
+- Figma UI Design  
+- Docker Basics  
 
 ---
 
@@ -141,17 +78,17 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephmagdy2001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=josephmagdy2001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmagdy2001&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmagdy2001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josephmagdy2001&theme=github-dark-blue&hide_border=true&background=0f172a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josephmagdy2001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -161,16 +98,16 @@ class Developer {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/josephmagdy">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:josephmagdy.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:josephmagdy.work@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://linkedin.com/in/josephmagdy">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/josephmagdy2001">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -179,7 +116,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:334155,100:1e293b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827" />
 
 </div>
-````
+```
