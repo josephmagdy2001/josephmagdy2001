@@ -7,7 +7,7 @@
 
 ---
 
-# 💻 Terminal Mode (PHP Simulation)
+# 💻 Terminal Mode
 
 ```php
 <?php
