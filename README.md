@@ -1,4 +1,4 @@
-````md id="xplmtr"
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e293b,100:334155&text=Joseph%20Magdy%20Habib&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38" />
