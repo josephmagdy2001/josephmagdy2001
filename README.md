@@ -1,80 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:111827,100:1f2937&text=Joseph%20Magdy%20Habib&fontSize=44&fontColor=e5e7eb&animation=fadeIn&fontAlignY=38" />
-
-### 🚀 Laravel • PHP • React Developer
-
-<p>
-Building scalable backend systems, clean APIs, and modern web experiences.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=E5E7EB&center=true&vCenter=true&width=700&lines=Laravel+Backend+Engineer;PHP+API+Developer;React+Frontend+Developer;MySQL+Database+Designer;Clean+Architecture+Enthusiast" />
+<!-- HEADER ANIMATION (Mint Green Theme) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:06281a,50:0a3d2e,100:10b981&text=Laravel%20Developer&fontSize=42&fontColor=eafff7&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Terminal Mode (PHP Simulation)
 
-I am a **Full Stack Web Developer** with around **3 years of professional experience** in building modern, scalable, and maintainable web applications.
+```php
+<?php
 
-I specialize in backend development using **Laravel & PHP**, with strong experience in designing RESTful APIs, database structures, and secure authentication systems. On the frontend side, I work with **React.js** to deliver responsive and user-friendly interfaces.
+echo "Hello World 👋";
 
-Over the past years, I have focused on improving system architecture, writing clean and maintainable code, and optimizing application performance. I enjoy solving real-world problems through technology and continuously learning new tools and best practices in software development.
+class Developer {
+    public $name = "Joseph Magdy";
+    public $role = "Laravel | PHP | React Developer";
 
-My approach is simple: build systems that are **fast, secure, scalable, and easy to maintain**.
+    public function skills() {
+        return [
+            "Backend" => "Laravel / PHP / APIs",
+            "Frontend" => "React / Tailwind",
+            "Database" => "MySQL Optimization"
+        ];
+    }
+}
+
+$me = new Developer();
+echo "System Loaded Successfully 🚀";
+```
+
+---
+
+# ✨ About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Laravel+Backend+Engineer;PHP+API+Specialist;React+Frontend+Developer;Clean+Architecture+Builder;Scalable+System+Thinker" />
+
+I am a **Full Stack Web Developer** with **3 years of experience** building scalable backend systems and modern web applications.
+
+My main focus is on designing **clean APIs, secure backend architectures, and high-performance databases** using Laravel and PHP.  
+On the frontend side, I work with React to build smooth and responsive user interfaces.
+
+I believe in writing **clean, maintainable, and scalable code** with strong attention to performance and system design.
 
 ---
 
 # ⚙ Tech Stack
 
-## 🧩 Backend
+## 🟢 Backend (Core)
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
 </div>
 
-- RESTful API Development  
-- Authentication & Authorization (Sanctum / JWT)  
-- MVC Architecture  
-- Database Design & Optimization  
-- Eloquent ORM  
+- Laravel Framework  
+- PHP OOP  
+- RESTful APIs  
+- Authentication (JWT / Sanctum)  
 - Middleware & Policies  
-- Queue Jobs & Task Scheduling  
-- Payment Gateway Integration  
+- Database Design & Optimization  
+- Queue & Jobs  
+- Payment Integration  
 
 ---
 
 ## 🎨 Frontend
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
 </div>
 
-- React.js (Components, Hooks)  
+- React.js  
 - JavaScript ES6+  
 - Tailwind CSS  
-- Responsive UI Development  
-- API Integration (Axios / Fetch)  
+- Responsive UI Design  
+- API Integration (Axios)  
 
 ---
 
-## 🛠 Tools
+## 🛠 Dev Tools
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma,docker" />
+
 </div>
 
 - Git & GitHub  
-- Postman API Testing  
-- Linux Command Line  
+- Postman  
 - VS Code  
-- Figma UI Design  
+- Linux CLI  
+- Figma  
 - Docker Basics  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -84,7 +110,7 @@ My approach is simple: build systems that are **fast, secure, scalable, and easy
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -94,20 +120,20 @@ My approach is simple: build systems that are **fast, secure, scalable, and easy
 
 ---
 
-# 🌐 Connect With Me
+# 🌿 Connect With Me
 
 <div align="center">
 
 <a href="mailto:josephmagdy.work@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-065f46?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/josephmagdy">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/josephmagdy2001">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-064e3b?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -116,7 +142,7 @@ My approach is simple: build systems that are **fast, secure, scalable, and easy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:064e3b,100:10b981" />
 
 </div>
-```
